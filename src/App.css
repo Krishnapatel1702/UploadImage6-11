@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.link {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #4b6cb7
+}
+
+.bg-col {
+  background-color: #4b6cb7;
 }
